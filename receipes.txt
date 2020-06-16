@@ -4,6 +4,10 @@ KHEER
 
 pasta
 
+pizza
+
+beans
+
 final copy
 
 Regards,
