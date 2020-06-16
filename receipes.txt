@@ -6,5 +6,7 @@ pasta
 
 pizza
 
+beans
+
 Regards,
 Priyanka
